@@ -30,3 +30,7 @@ In addition to model evaluation, data visualization techniques were applied to g
 The results demonstrate that TF-IDF combined with Logistic Regression can effectively classify customer reviews with high accuracy. However, performance may be influenced by class imbalance and feature selection parameters. Future improvements may include hyperparameter tuning, incorporating n-grams, handling imbalance using resampling techniques, or applying advanced deep learning models such as LSTM or transformer-based architectures.
 
 In conclusion, this project successfully demonstrates how Natural Language Processing and machine learning techniques can be integrated to build an automated sentiment analysis system. Such systems have significant real-world applications in e-commerce, marketing analytics, customer service optimization, and brand monitoring. By leveraging textual data effectively, businesses can make informed decisions based on customer feedback and improve overall product quality and user satisfaction.
+
+output:
+<img width="863" height="398" alt="Image" src="https://github.com/user-attachments/assets/e9f74c3d-1710-449f-8357-950d1ed53c0c" />
+
