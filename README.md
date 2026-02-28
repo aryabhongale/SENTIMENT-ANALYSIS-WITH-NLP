@@ -33,4 +33,5 @@ In conclusion, this project successfully demonstrates how Natural Language Proce
 
 output:
 <img width="863" height="398" alt="Image" src="https://github.com/user-attachments/assets/e9f74c3d-1710-449f-8357-950d1ed53c0c" />
+<img width="1105" height="363" alt="Image" src="https://github.com/user-attachments/assets/f3af7997-c44b-4604-8807-d9504f1da466" />
 
